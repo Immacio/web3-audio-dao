@@ -63,6 +63,7 @@ h1 {
   width: 100%;
   text-align: left;
   gap: 2rem;
+  justify-content:center;
 }
 .member-page > div > div {
   display: flex;
